@@ -1,4 +1,3 @@
 pandas
 plotly_express
 streamlit
-/Users/gilrobles/Documents/GitHub/proyecto5/vehicles_us.csv
